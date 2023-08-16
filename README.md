@@ -12,7 +12,7 @@ Built with Vite + Vue 3
 - Check the code.
 
 ## Demo
-- 
+- https://rad-zabaione-d2a44c.netlify.app/
 
 ## Formula derived from
 - https://www.wallstreetmojo.com/mortgage-formula/
